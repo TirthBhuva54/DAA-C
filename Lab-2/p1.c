@@ -3,6 +3,7 @@
 int arr[Max];
 
 int top=-1;
+int a;
 
 void push (int a){
     if (top==Max-1)
